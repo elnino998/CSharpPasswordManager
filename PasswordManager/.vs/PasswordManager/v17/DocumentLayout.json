@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arman\\Documents\\github_repos\\CSharp-Password-Manager\\PasswordManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{382F219C-9409-4235-A058-9C44AF15C463}|PasswordManager\\PasswordManager.csproj|c:\\users\\arman\\documents\\github_repos\\csharp-password-manager\\passwordmanager\\passwordmanager\\passwordfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{382F219C-9409-4235-A058-9C44AF15C463}|PasswordManager\\PasswordManager.csproj|solutionrelative:passwordmanager\\passwordfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{382F219C-9409-4235-A058-9C44AF15C463}|PasswordManager\\PasswordManager.csproj|c:\\users\\arman\\documents\\github_repos\\csharp-password-manager\\passwordmanager\\passwordmanager\\cases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{382F219C-9409-4235-A058-9C44AF15C463}|PasswordManager\\PasswordManager.csproj|solutionrelative:passwordmanager\\cases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{382F219C-9409-4235-A058-9C44AF15C463}|PasswordManager\\PasswordManager.csproj|c:\\users\\arman\\documents\\github_repos\\csharp-password-manager\\passwordmanager\\passwordmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{382F219C-9409-4235-A058-9C44AF15C463}|PasswordManager\\PasswordManager.csproj|solutionrelative:passwordmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 810,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PasswordFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\arman\\Documents\\github_repos\\CSharp-Password-Manager\\PasswordManager\\PasswordManager\\PasswordFunctions.cs",
+              "RelativeDocumentMoniker": "PasswordManager\\PasswordFunctions.cs",
+              "ToolTip": "C:\\Users\\arman\\Documents\\github_repos\\CSharp-Password-Manager\\PasswordManager\\PasswordManager\\PasswordFunctions.cs",
+              "RelativeToolTip": "PasswordManager\\PasswordFunctions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T05:27:25.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cases.cs",
+              "DocumentMoniker": "C:\\Users\\arman\\Documents\\github_repos\\CSharp-Password-Manager\\PasswordManager\\PasswordManager\\Cases.cs",
+              "RelativeDocumentMoniker": "PasswordManager\\Cases.cs",
+              "ToolTip": "C:\\Users\\arman\\Documents\\github_repos\\CSharp-Password-Manager\\PasswordManager\\PasswordManager\\Cases.cs",
+              "RelativeToolTip": "PasswordManager\\Cases.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T05:26:23.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arman\\Documents\\github_repos\\CSharp-Password-Manager\\PasswordManager\\PasswordManager\\Program.cs",
+              "RelativeDocumentMoniker": "PasswordManager\\Program.cs",
+              "ToolTip": "C:\\Users\\arman\\Documents\\github_repos\\CSharp-Password-Manager\\PasswordManager\\PasswordManager\\Program.cs",
+              "RelativeToolTip": "PasswordManager\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T05:25:04.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
